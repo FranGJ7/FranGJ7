@@ -2,9 +2,9 @@
 
 <h3>Fique a vontade para saber mais sobre minhas Hard skills</h3>
 
--:computer: Desenvolverdor FullStack JavaScript Jr React~Node.JS.
+-:computer: <h3>Desenvolverdor FullStack:</h3> JavaScript.
 
-:calling:Mobile com React Native
+:calling: <h3>Desenvolvedor Mobile:</h3> React Native
 
 -:desktop_computer: Projetos pessoal pequeno como página responsiva(HTML/CSS) até projetos maiores como Site Ead(React/Node.js) e outros que pode ser vistos em meu repositório aqui mesmo no GitHUb.
 
