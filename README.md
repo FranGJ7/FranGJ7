@@ -4,6 +4,8 @@
 
 -:computer: Desenvolverdor FullStack JavaScript Jr React~Node.JS.
 
+:calling:Mobile com React Native
+
 -:desktop_computer: Projetos pessoal pequeno como página responsiva(HTML/CSS) até projetos maiores como Site Ead(React/Node.js) e outros que pode ser vistos em meu repositório aqui mesmo no GitHUb.
 
 -:movie_camera: Em meu LinkedIn posto videos dos projetos que estão prontos em meu respositório mostrando a interface e um pouco do funcionamento do mesmo, acesse e saiba mais. Perfil :link: => https://www.linkedin.com/in/fran-gj/
