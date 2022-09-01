@@ -2,7 +2,7 @@
 
 <h3>Fique a vontade para saber mais sobre minhas Hard skills</h3>
 
-<h5>- Desenvolverdor FullStack JavaScript :computer: Web  && :calling: Mobile</h5>
+<h3>- Desenvolverdor FullStack JavaScript :computer: Web  && :calling: Mobile</h3>
 
  
 
