@@ -71,7 +71,7 @@
 <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranGJ7&layout=compact&theme=dark)]"/>
 
 
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
             
            
