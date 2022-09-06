@@ -46,6 +46,7 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 <h3>-:keyboard: Linguagem de programação:<h3>
+ 
  [![My Skills](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
 
 
