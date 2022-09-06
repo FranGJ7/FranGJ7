@@ -3,8 +3,11 @@
 <h3>SoftSkills && Livros</h3>
 
 Métodos ágeis-SCRUM
+<br>
 :books: Programador praguimático
+<br>
 :books: Clean code
+<br>
 -:speaking_head: Inglês básico (Estudando)
 
 
