@@ -20,7 +20,7 @@
 <h3>Front-End:</h3>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react)](https://skillicons.dev)
 
 
 <h3>Back-End:</h3>
