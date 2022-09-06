@@ -2,7 +2,7 @@
 
 <h3>SoftSkills && Livros</h3>
 
-Métodos ágeis-SCRUM
+:books:Métodos ágeis-SCRUM
 <br>
 :books: Programador pragmático
 <br>
