@@ -4,7 +4,7 @@
 
 Métodos ágeis-SCRUM
 <br>
-:books: Programador praguimático
+:books: Programador pragmático
 <br>
 :books: Clean code
 <br>
