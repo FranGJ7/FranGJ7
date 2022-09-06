@@ -1,7 +1,10 @@
 <h1>Bem vindo ao meu GitHub :metal: </h1>
 
-<h3>SoftSkills</h3>
+<h3>SoftSkills && Livros</h3>
 
+Métodos ágeis-SCRUM
+:books: Programador praguimático
+:books: Clean code
 -:speaking_head: Inglês básico (Estudando)
 
 
