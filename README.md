@@ -1,9 +1,14 @@
 <h1>Bem vindo ao meu GitHub :metal: </h1>
 
-<h3>Fique a vontade para saber mais sobre minhas Hard skills</h3>
+<h3>SoftSkills</h3>
+
+-:speaking_head: Inglês básico (Estudando)
+
 
 <h3>- Desenvolverdor FullStack JavaScript :computer: Web  && :calling: Mobile</h3>
 
+
+<h3>Fique a vontade para saber mais sobre minhas Hard skills</h3>
  
 
 -:desktop_computer: Projetos pessoal pequeno como página responsiva(HTML/CSS) até projetos maiores como Site Ead(React/Node.js) e outros que pode ser vistos em meu repositório aqui mesmo no GitHUb.
@@ -51,7 +56,7 @@ Ambiente de desenvolvimento:
 
 
 
--:speaking_head: Inglês básico (Estudando)
+
 
 
 
