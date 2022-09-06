@@ -32,6 +32,7 @@
 <h3>Mobile:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=react,firebase,androidstudio)](https://skillicons.dev)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) 
 
 
 
