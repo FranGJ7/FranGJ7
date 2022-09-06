@@ -41,13 +41,8 @@
  
  [![My Skills](https://skillicons.dev/icons?i=vscode,linux,docker,git)](https://skillicons.dev)
  
- 
- 
- 
-<br>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 <h3>-:keyboard: Linguagem de programação:<h3>
@@ -70,7 +65,7 @@
 <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranGJ7&layout=compact&theme=dark)]"/>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
             
            
