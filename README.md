@@ -8,7 +8,7 @@
 <br>
 :books: Clean code
 <br>
--:speaking_head: Inglês básico (Estudando)
+-:speaking_head: Inglês básico técnico(read and write)
 
 
 <h3>- Desenvolverdor FullStack JavaScript :computer: Web  && :calling: Mobile</h3>
