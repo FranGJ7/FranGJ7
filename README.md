@@ -3,7 +3,9 @@
 
 <h3>Objetivos como Desenvolvedor</h3>
 
-wsvskmvrpmv
+Sou Desenvolvedor Web Fullstack apesar de ter um gosto maior em Front-End quero saber ambas parte acho incrivel a forma que se conecta uma a outra, a forma que uma Api se conecta com o Front com o Banco de dados isso tudo para resolver  problemas e fácilitar a vida de pessoas, fazendo tudo ficar fácil com um interface bem feita de fácil uso de uma forma que pessoas de qualquer idade consiga usar com Front bem feito, e com nosso Back armazenando informações, trazendo informações isso é incrivel! 
+Junto com React fazendo trabalhos e Projetos despertou interesse em Mobile com React Native também e por não aprender junto ? Ambas são muito parecidas alguns detalhes a mais mas nada que alguns minutos de documento Oficial não resolva. Então decidi em horas vagas fazer alguns projetos Mobile que inclusive estou gostando muito, agora preciso de uma coisa uma equipe para trabalhar trocar conhecimento aprender com outros Desenvolvedores, crescer como pessoa e como profissional! 
+Gostou do meu perfil ? Me chame vamos conversa, abaixo tem mais informações sobre técnologias que uso e ja tive contato e meu repositório completo. 
 
 
 <h3>SoftSkills && Livros</h3>
