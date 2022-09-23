@@ -64,7 +64,7 @@
 
 <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranGJ7&layout=compact&theme=dark)]"/>
 
-</ṕ>
+</p>
 
 
             
