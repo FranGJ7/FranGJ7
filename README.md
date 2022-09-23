@@ -1,9 +1,9 @@
 <h1>Bem vindo ao meu GitHub :metal: </h1>
 
-<h3>Objetivo como Desenvolvedor</h3>
 
+<h3>Objetivos como Desenvolvedor</h3>
 
-
+wsvskmvrpmv
 
 
 <h3>SoftSkills && Livros</h3>
