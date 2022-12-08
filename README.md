@@ -36,7 +36,7 @@ https://portfolioweb-ebon.vercel.app/
 <br>
 Perfil :link: => https://www.linkedin.com/in/fran-gj/
 
--:books: Algumas ferramentas que ultilizo abaixo
+-:books: Algumas ferramentas que ultilizo abaixo:
 
 <h3>Front-End:</h3>
 <br>
