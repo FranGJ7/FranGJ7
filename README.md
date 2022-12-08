@@ -1,4 +1,4 @@
-<h1>Bem vindo ao meu GitHub :metal: </h1>
+<h1>Bem-Vindo ao meu GitHub :metal: </h1>
 
 <h3>- Desenvolvedor FullStack JavaScript :computer: Web  && :calling: Mobile</h3>
 
