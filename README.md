@@ -9,6 +9,9 @@ https://portfolioweb-ebon.vercel.app/
 
 <h3>SoftSkills && Livros</h3>
 
+:books:Cursando Análise e Desenvolvimento de Sistemas
+<br>
+
 :books:Métodos ágeis-SCRUM
 <br>
 :books: Programador pragmático
