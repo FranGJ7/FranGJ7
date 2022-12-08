@@ -14,10 +14,13 @@ https://portfolioweb-ebon.vercel.app/
 
 :books:Métodos ágeis-SCRUM
 <br>
+
 :books: Programador pragmático
 <br>
+
 :books: Clean code
 <br>
+
 -:speaking_head: Inglês técnico ( read and write )
 
 
