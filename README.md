@@ -2,7 +2,7 @@
 
 <h3>- Desenvolvedor FullStack JavaScript :computer: Web  && :calling: Mobile</h3>
 
-<h3>Portfólio Web</h3>
+<h3>Portfólio</h3>
 
 https://portfolioweb-ebon.vercel.app/
 
