@@ -26,20 +26,6 @@ https://portfolioweb-ebon.vercel.app/
 <br>
 
 
-
-
-
-<h3>Fique a vontade para saber mais sobre minhas Hard skills</h3>
- 
-
--:desktop_computer: Projetos pessoais pequeno como página responsiva(HTML/CSS) até projetos maiores como Site Ead(React/Node.js) e outros, que pode ser vistos em meu repositório.
-
--:movie_camera: Em meu LinkedIn posto videos dos projetos que estão prontos em meu respositório mostrando a interface e um pouco do funcionamento do mesmo, acesse e saiba mais. 
-<br>
-Perfil :link: => https://www.linkedin.com/in/fran-gj/
-
--:books: Algumas ferramentas que ultilizo abaixo:
-
 <h3>Front-End:</h3>
 <br>
 
