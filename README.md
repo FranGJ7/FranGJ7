@@ -4,19 +4,23 @@
 <h3>Portfólio</h3>
 
 https://portfolioweb-ebon.vercel.app/
-
-
+<br/>
+<hr/>
 <h3>Front-End:</h3>
-<br>
+
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,react,nextjs)](https://skillicons.dev)
 
+<br/>
+<hr/>
 
 <h3>Back-End:</h3>
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,nodejs,mongodb,express)](https://skillicons.dev)
 
+<br/>
+<hr/>
 
 <h3>Mobile:</h3>
 
@@ -24,7 +28,8 @@ https://portfolioweb-ebon.vercel.app/
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) 
 
 
-
+<br/>
+<hr/>
 
 <h3>Ambiente de desenvolvimento:<h3>
  
