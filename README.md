@@ -7,19 +7,6 @@
 https://portfolioweb-ebon.vercel.app/
 
 
-<h3>SoftSkills && Livros</h3>
-
-
-
-:books:Métodos ágeis-SCRUM
-<br>
-
-:books: Programador pragmático
-<br>
-
-:books: Clean code
-<br>
-
 -:speaking_head: Inglês técnico ( read and write )
 
 :books:Cursando Análise e Desenvolvimento de Sistemas
