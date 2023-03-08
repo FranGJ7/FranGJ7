@@ -34,7 +34,7 @@ https://portfolioweb-ebon.vercel.app/
 <br/>
 <hr/>
 
-<h3>Ambiente de desenvolvimento:<h3>
+<h3>Development Environment:<h3>
  
  [![My Skills](https://skillicons.dev/icons?i=vscode,linux,docker,git,aws,jest)](https://skillicons.dev)
  
