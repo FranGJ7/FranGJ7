@@ -1,4 +1,7 @@
-<h1>Desenvolvedor JavaScript FullStack :computer: Web  && :calling: Mobile </h1>
+<h1>FullStack JavaScript Developer specializing in Web and Mobile Development</h1>
+
+
+
 
 
 <h3>Portfólio</h3>
