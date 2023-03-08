@@ -35,7 +35,7 @@ https://portfolioweb-ebon.vercel.app/
 <h3>Back-End:</h3>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,nodejs,mongodb,express,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,nodejs,mongodb,express)](https://skillicons.dev)
 
 
 <h3>Mobile:</h3>
