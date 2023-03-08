@@ -40,7 +40,7 @@ https://portfolioweb-ebon.vercel.app/
 
 <h3>Mobile:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,firebase,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,androidstudio)](https://skillicons.dev)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) 
 
 
@@ -48,7 +48,7 @@ https://portfolioweb-ebon.vercel.app/
 
 <h3>Ambiente de desenvolvimento:<h3>
  
- [![My Skills](https://skillicons.dev/icons?i=vscode,linux,docker,git)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=vscode,linux,docker,git,aws,jest)](https://skillicons.dev)
  
 <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/>
 
