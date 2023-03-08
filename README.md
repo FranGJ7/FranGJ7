@@ -1,16 +1,9 @@
-<h1>Bem-Vindo ao meu GitHub. :metal: </h1>
+<h1>Desenvolvedor FullStack JavaScript :computer: Web  && :calling: Mobile </h1>
 
-<h3>- Desenvolvedor FullStack JavaScript :computer: Web  && :calling: Mobile</h3>
 
 <h3>Portfólio</h3>
 
 https://portfolioweb-ebon.vercel.app/
-
-
--:speaking_head: Inglês técnico ( read and write )
-
-:books:Cursando Análise e Desenvolvimento de Sistemas
-<br>
 
 
 <h3>Front-End:</h3>
