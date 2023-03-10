@@ -8,7 +8,7 @@
 
 https://portfolioweb-ebon.vercel.app/
 <br/>
-<hr/>
+
 <h3>Front-End:</h3>
 
 
@@ -21,8 +21,6 @@ https://portfolioweb-ebon.vercel.app/
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,nodejs,mongodb,express)](https://skillicons.dev)
 
-<br/>
-<hr/>
 
 <h3>Mobile:</h3>
 
@@ -30,8 +28,6 @@ https://portfolioweb-ebon.vercel.app/
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) 
 
 
-<br/>
-<hr/>
 
 <h3>Development Environment:<h3>
  
