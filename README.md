@@ -4,7 +4,7 @@
 
 
 
-<h3>Portfólio</h3>
+<h3>Portfolio</h3>
 
 https://portfolioweb-ebon.vercel.app/
 <br/>
