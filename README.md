@@ -14,8 +14,7 @@ https://portfolioweb-ebon.vercel.app/
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,react,nextjs)](https://skillicons.dev)
 
-<br/>
-<hr/>
+
 
 <h3>Back-End:</h3>
 <br>
