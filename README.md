@@ -37,7 +37,7 @@ https://portfolioweb-ebon.vercel.app/
 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
-<h3>-:keyboard: Linguagem de programação:<h3>
+<h3>-:keyboard: Programming language:<h3>
  
  [![My Skills](https://skillicons.dev/icons?i=typescript,python)](https://skillicons.dev)
 
