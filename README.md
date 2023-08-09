@@ -39,7 +39,7 @@ https://portfolioweb-ebon.vercel.app/
 
 <h3>-:keyboard: Linguagem de programação:<h3>
  
- [![My Skills](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=typescript,python)](https://skillicons.dev)
 
 
 -:gear: GitHub Analytics:
