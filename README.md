@@ -1,4 +1,4 @@
-<h1>FullStack JavaScript Developer specializing in Web and Mobile Development</h1>
+<h1>FullStack Developer Web and Mobile</h1>
 
 
 
