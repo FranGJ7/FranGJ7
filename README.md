@@ -1,5 +1,6 @@
 <h1>Mobile Developer</h1>
 
+[![My Skills](https://skillicons.dev/icons?i=js,react,typescript,flutter,dart)](https://skillicons.dev)
 
 
 
@@ -9,7 +10,6 @@
 https://portfolioweb-ebon.vercel.app/
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,typescript,flutter,dart)](https://skillicons.dev)
 
 
 
