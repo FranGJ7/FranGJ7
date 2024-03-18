@@ -12,7 +12,7 @@ https://portfolioweb-ebon.vercel.app/
 <h3>Front-End:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,flutter,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,typescript,flutter,dart)](https://skillicons.dev)
 
 
 
@@ -29,13 +29,7 @@ https://portfolioweb-ebon.vercel.app/
 
 
 
-<h3>Development Environment:<h3>
- 
- [![My Skills](https://skillicons.dev/icons?i=vscode,linux,docker,git,aws,jest)](https://skillicons.dev)
- 
-<img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 <h3>-:keyboard: Programming language:<h3>
  
