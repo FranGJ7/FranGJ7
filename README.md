@@ -12,7 +12,7 @@ https://portfolioweb-ebon.vercel.app/
 <h3>Front-End:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,react,nextjs,tailwind,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,react,nextjs,tailwind,flutter,dart)](https://skillicons.dev)
 
 
 
