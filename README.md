@@ -12,8 +12,6 @@ https://portfolioweb-ebon.vercel.app/
 [![My Skills](https://skillicons.dev/icons?i=js,react,typescript,flutter,dart)](https://skillicons.dev)
 
 
--:gear: GitHub Analytics:
-
 
 <p>
 <img width="360em" src="https://github-readme-stats.vercel.app/api?username=FranGJ7&show_icons=true&theme=dark"/>
