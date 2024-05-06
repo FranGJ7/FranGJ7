@@ -1,6 +1,6 @@
 <h1>Mobile Developer</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,typescript,flutter,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,js,react,typescript)](https://skillicons.dev)
 
 
 
